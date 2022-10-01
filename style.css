@@ -33,6 +33,20 @@ main {
   justify-content: space-around;
 }
 
+
+/* updating css for classes startRange and end Range*/
+.startRange, .endRange{
+  position: relative;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  width: 8vh;
+  top: -3px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(114, 114, 114);
+}
+
 .left {
   width: 52rem;
   display: flex;
